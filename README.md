@@ -9,4 +9,4 @@ He is also active on YouTube and released build instructions there: https://www.
 The design is based on The100 v.1.1 (the variant with printed columns at the back). You Can find the CAD-Design in this Onshape-Document: https://cad.onshape.com/documents/3cb57a3448a131f8bcd34625/w/2beea64ae2f6deb70f163233/e/3502549ec48b101199c71d63?renderMode=0&uiState=64dc8d3a34bc070c500e6cf3
 
 ## PrusaSlicer Profile
-You can find print profiles for the The100 for PrusaSlicer in the Folder PrusaSlicer/
+You can find print profiles for the The100 for PrusaSlicer in the Folder [PrusaSlicer/](https://github.com/pinae/The100-v1.1-Encased/tree/main/PrusaSlicer). These may be helpful for further optimizations...
